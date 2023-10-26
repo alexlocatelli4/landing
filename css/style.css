@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&family=Merriweather+Sans:wght@300&display=swap');
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+body {
+	font-family: 'Cabin', serif; 
+	font-size: 18px; 
+	background-color: white;
+	margin: 0px;
+	margin-bottom: 50px;
+}
+h1, h2, h3, h4 {
+	font-family: 'Merriweather Sans';
+	font-weight: bold;
+}
+a {
+	text-decoration: none;
+	color: #48CAE4
+	font-weight: lighter;
+}
+
+p{
+	color: black;
+}
+
+h1, h2, h3, h4, p, .avatar, .btn-blue, a {
+	margin: 30 350px;
+}
+
+
+h4 {
+	font-size: 20;
+	margin-top: 80px;
+}
+
+.image {
+	margin-top: 80px;
+	margin-left: 350px;
+	border-radius: 15px;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+
+#text-laine {
+	margin-bottom: 20px
+}
+
+#learnmore-btn {
+	margin-bottom: 30px;
+}
+
+a:hover {
+	color: #90E0EF
+}
+
+#collection {
+	margin-bottom: 100px;
+
+}
+
+
+
+
+
+
+
+
+
+
